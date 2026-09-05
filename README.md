@@ -1,3 +1,5 @@
+> **Archived.** Allerin's public code now lives under the organization: https://github.com/Allerintech. The Rails practice is at https://www.allerin.com/services/ruby-on-rails. This repository is kept for history and is not maintained.
+
 # RailsCurrency
 
 A Ruby gem to real time convert among different currencies with services from xe.com and google.com
